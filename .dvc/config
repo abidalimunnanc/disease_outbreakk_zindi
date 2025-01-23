@@ -1,0 +1,4 @@
+[core]
+    remote = myremotesg
+['remote "myremotesg"']
+    url = gs://dvc_cml_bucket/zindi
